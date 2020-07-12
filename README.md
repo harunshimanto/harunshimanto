@@ -32,7 +32,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 <ul>
   <li>
-     <b>Top tech stories</b> HackerNoon Online Publication,2020
+     <b>Top tech stories: </b> HackerNoon Online Publication,2020
    </li>
   <li>
      <b>1st Runner-Up: </b> NASA Space Apps Challenge organized by BASIS, 2019
