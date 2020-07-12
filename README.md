@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-141/Feature.png"></a>
+<a target="_blank" href="https://shunjid.github.io"><img width="350" align="right" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-141/Feature.png"></a>
 
 # Harun-Ur-Rashid
 
@@ -20,7 +20,7 @@
    "backend": ["Django","Flask"],
    "frontend": ["html", "css"],
    "databases": ["mysql"],
-   "AI Framework":["Keras","PyTorch","Scikit-learn","PySpark"]
+   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
    "experimenting": ["Django", "Heroku"]
 }
 ```
