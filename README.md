@@ -24,7 +24,7 @@ I love to work with new technologies and playing with Data and AI.🤖
    "languages": ["Python", "Java"],
    "backend": ["Django","Flask"],
    "frontend": ["html", "css"],
-   "databases": ["mysql"],
+   "databases": ["mysql","postgresql"],
    "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
    "experimenting": ["Django", "Heroku"]
 }
