@@ -7,6 +7,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/harunurrashid96/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@harunurrashid97)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/harunshimanto)
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
 
 
