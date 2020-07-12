@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
+<a target="_blank" href="https://shunjid.github.io"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 
 # Harun-Ur-Rashid
 
@@ -10,11 +10,11 @@
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
 
 
-:wave: Hi there, My name is Harun-Ur-Rashid. I'm 23 years old, I'm a self-taught Data Scientist.
+:wave: Hi there, My name is Harun-Ur-Rashid.😀 I'm 23 years old, I'm a self-taught Data Scientist.
 I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
 Currently, I was completed Undergrade in CSE from 🇧🇩. 
 I'm interested in doing research on text and image related problems. 
-I love to work with new technologies and playing with Data and AI.
+I love to work with new technologies and playing with Data and AI.🤖
 
 ## {...} My Stack
 
