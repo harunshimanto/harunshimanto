@@ -1,4 +1,4 @@
-<a target="_blank" href="https://shunjid.github.io"><img width="350" align="right" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-141/Feature.png"></a>
+<a target="_blank" href="https://shunjid.github.io"><img width="250" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
 
 # Harun-Ur-Rashid
 
