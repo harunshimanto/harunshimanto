@@ -17,6 +17,8 @@ Currently, I completed Undergraduate in CSE from 🇧🇩.
 I'm interested in doing research on text and image related problems. 
 I love to work with new technologies and playing with Data and AI.🤖
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="harunshimanto" /> </p>
+
 ## {...} My Stack
 
 ```json
