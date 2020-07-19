@@ -48,3 +48,5 @@ I love to work with new technologies and playing with Data and AI.🤖
      <b>1st Runner up:</b> International Business Competition Organized by Hult Prize On Campus Round of Daffodil International University,2019
    </li>
 </ul>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harunshimanto&show_icons=true" alt="harunshimanto" /> </h1>
