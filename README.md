@@ -50,5 +50,5 @@ I love to work with new technologies and playing with Data and AI.🤖
      <b>1st Runner up:</b> International Business Competition Organized by Hult Prize On Campus Round of Daffodil International University,2019
    </li>
 </ul>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harunurrashid97&&theme=synthwave&show_icons=true" alt="harunurrashid97" /> </h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harunurrashid97&theme=radical&layout=compact)](https://github.com/harunurrashid97/100-Days-Of-ML-Code)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harunurrashid97&theme=synthwave&show_icons=true" alt="harunurrashid97" /> </h1>
