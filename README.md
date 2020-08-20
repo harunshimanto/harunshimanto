@@ -51,4 +51,4 @@ I love to work with new technologies and playing with Data and AI.🤖
    </li>
 </ul>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harunshimanto&&theme=synthwave&show_icons=true" alt="harunshimanto" /> </h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harunurrashid97&&theme=synthwave&show_icons=true" alt="harunurrashid97" /> </h1>
