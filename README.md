@@ -52,6 +52,11 @@ I love to work with new technologies and playing with Data and AI.🤖
 </ul>
 
 
+<p align="left">
+  <a href="https://github.com/harunurrashid97"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harunurrashid97&layout=compact&theme=radical" />
+</a>
+</p>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harunurrashid97&align=center&theme=radical&repo=100-Days-Of-ML-Code&show_owner=true)](https://github.com/harunurrashid97/100-Days-Of-ML-Code)
 
 
