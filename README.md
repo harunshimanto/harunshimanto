@@ -1,4 +1,4 @@
-<a target="_blank" href="https://harunurrashid97.github.io/"><img width="550" align="right" src="https://imgur.com/bXRTZeL"></a>
+<a target="_blank" href="https://harunurrashid97.github.io/"><img width="550" align="right" src="Programmer-I.gif"></a>
 
 # Harun-Ur-Rashid
 
