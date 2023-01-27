@@ -3,7 +3,7 @@
 # Harun-Ur-Rashid
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Twitter Follow](![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=twitter&logoColor=#00acee)](https://twitter.com/harunurrashid97)
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=twitter&logoColor=#00acee)](https://twitter.com/harunurrashid97)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@harunurrashid97)
