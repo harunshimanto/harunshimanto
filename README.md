@@ -11,7 +11,7 @@
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
 
 
-:wave: Hi there, My name is Harun-Ur-Rashid.😀.Currently, I'm started Msc in CSE ([Major Data Science](https://cse.uiu.ac.bd/graduate-program/mscsemajor-data-science/)) at [United International University](https://www.uiu.ac.bd/) and working as a Software Engineer at [Giga Tech Limited](http://gigatechltd.com/).I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. I graduated from CSE at Daffodil International University. I’m interested in doing research on text and image related problems.I believe no problem is beyond human inventiveness.🤖
+:wave: Hi there, My name is Harun-Ur-Rashid.😀.Currently, I started Msc in CSE ([Major Data Science](https://cse.uiu.ac.bd/graduate-program/mscsemajor-data-science/)) at [United International University](https://www.uiu.ac.bd/) and working as a Software Engineer at [Giga Tech Limited](http://gigatechltd.com/).I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. I graduated from CSE at Daffodil International University. I’m interested in doing research on text and image related problems.I believe no problem is beyond human inventiveness.🤖
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harunshimanto" alt="harunshimanto" /> </p>
 
