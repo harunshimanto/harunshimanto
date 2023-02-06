@@ -19,7 +19,7 @@
 
 ```json
 {
-   "languages": ["Python", "Java"],
+   "languages": ["Python", "Java","R"],
    "backend": ["Django","Flask","REST framework","FastAPI"],
    "frontend": ["html", "css"],
    "databases": ["mysql","postgresql"],
