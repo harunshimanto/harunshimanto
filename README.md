@@ -22,9 +22,8 @@
 
 ```json
 {
-   "languages": ["Python", "Java","R"],
+   "languages": ["Python", "Java","R", "C++"],
    "backend": ["Django","Flask","REST framework","FastAPI"],
-   "frontend": ["html", "css"],
    "databases": ["mysql","postgresql"],
    "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","TensorFlow"],
    "experimenting": ["Django","Flask", "Heroku","REST framework"]
